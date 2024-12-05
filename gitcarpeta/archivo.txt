@@ -1,1 +1,1 @@
-buna am schimbat de tot ok
+buna am schimbat direct din github fara visual studio code
